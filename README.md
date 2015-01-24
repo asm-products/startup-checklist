@@ -1,4 +1,7 @@
 # startup-checklist
+
+<img src="https://d1015h9unskp4y.cloudfront.net/attachments/3d78591a-bc25-4d59-90f6-7cbe76ae416d/emaze-amazing%20presentations%20in%20minutes.jpg" />
+
 Startup checklist will be reminder and checklist for startups. 
 Such as business plan, pitch, social accounts, contacts and ect.
 
